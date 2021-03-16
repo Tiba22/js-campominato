@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: #ccc;
+  text-align: center;
+
+}
+
+h1 {
+  padding-top: 300px;
+  padding-bottom: 50px;
+}
+
+#giocaBtn {
+  margin-top: 25px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+}
